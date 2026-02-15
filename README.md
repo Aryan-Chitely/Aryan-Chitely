@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<!--## Hi there 👋-->
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-Chitely&theme=transparent&hide_border=false">
 <!--
 **Aryan-Chitely/Aryan-Chitely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
