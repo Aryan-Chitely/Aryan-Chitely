@@ -1,8 +1,8 @@
-<!-- <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-Chitely&theme=transparent&hide_border=false"> -->
+ <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-Chitely&theme=transparent&hide_border=false"> 
 <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Chitely&theme=react)-->
 
-<!--<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=4"/>  -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Chitely&theme=github-compact)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=4"/> 
+<!--![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Chitely&theme=github-compact)-->
 
 
 ## Hi, I'm Aryan Chitely
