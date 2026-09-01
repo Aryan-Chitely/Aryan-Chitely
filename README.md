@@ -83,9 +83,9 @@ with a focus on clean architecture, problem-solving, and real-world usability.
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Aryan-Chitely/Aryan-Chitely/output/github-snake-red.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan-Chitely/Aryan-Chitely/output/github-snake-red.svg">
-  <img src="https://raw.githubusercontent.com/Aryan-Chitely/Aryan-Chitely/output/github-snake-red.svg" width="100%" alt="snake eating the contribution graph">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Aryan-Chitely/Aryan-Chitely/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan-Chitely/Aryan-Chitely/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/Aryan-Chitely/Aryan-Chitely/output/snake.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
 
 </div>
