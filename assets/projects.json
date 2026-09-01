@@ -1,0 +1,7 @@
+{
+  "projects": [
+    {"repo": "HazarEye", "description": "AI Travel Assistant Agent that plans trips through natural language conversation"},
+    {"repo": "Student-Result-System", "description": "Student result management system with automated grade calculation and analytics"},
+    {"repo": "Library-Management-System", "description": "Library and inventory management system with overdue fine calculation and lending analytics"}
+  ]
+}
